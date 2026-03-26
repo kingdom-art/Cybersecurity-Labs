@@ -9,7 +9,10 @@ This repository documents my hands-on journey in web application security and pe
 - SQL Injection *(coming soon)*
 
 ## 🧪 Labs
-- [LFI & RCE](./LFI-RCE/README.md)
+- [LFI & RCE](./lfi-rce/README.md)
+- [SQL Injection](./sqli/README.md)
+- [Cross-Site Scripting](./xss/README.md)
+- [Safe Labs](./sqli/README.md)
 
 ## 🎯 Goal
 To build a strong foundation in identifying, exploiting, and mitigating web vulnerabilities through practical testing.
